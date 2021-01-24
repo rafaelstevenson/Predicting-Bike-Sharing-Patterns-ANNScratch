@@ -14,3 +14,6 @@ to predict the Bike Sharing Pattern Case.
 
 Feel free to check it out, to try to understand how basic Neural Network works and play around with 
 the parameters.
+
+The requirement.txt is the required packages for the basic udacity deep learning nanodegree, for this
+project only pandas and numpy is needed.
